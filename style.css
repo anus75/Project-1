@@ -1,0 +1,121 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.carosuel-caption{
+    /* text-align: center; */
+    bottom: 10.25rem; 
+  
+}
+.anus{
+    bottom: 10.5rem;
+}
+input{
+    width: 200px;
+    height: 40px;
+}
+select{
+    width: 200px;
+    height: 40px;
+}
+.italy{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+}
+.italy:hover button{
+    background-color: aquamarine;
+}
+.card-top {
+    position: absolute;
+    top: 10%;
+}
+.form-section-2{
+    --bs-gutter-x: 0;
+}
+.card-body button:hover{
+    background-color: blue ;
+}   
+.nav-link{
+    color: #000;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: blue ;
+}
+.sec-4-card:hover{
+    transform: translateY(-1rem);
+    transition: all .5s;
+}
+.sec-1-btn:hover{
+    background-color: pink;
+}
+.sec-1-btn{
+    background-color: red;
+}
+.indonesia{
+    font-size: 150px;
+    font-family: 'Dancing Script', cursive; 
+}
+.carosuol-color{
+    color: white;
+    background-color: rgb(0, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+}
+.carosuol-color:hover{
+    background-color: red;
+}
+.card-body p:hover{
+    color: red;
+}
+.card4-mid{
+    margin-left: 50%;
+    color: white;
+   background-color: rgb(219, 11, 11);
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+}
+.card4-mid:hover{
+    background-color: rgb(0, 255, 255);
+}
+
+.card4-mid2{
+  
+    color: white;
+   background-color: rgb(219, 11, 11);
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+}
+.card4-mid2:hover{
+    background-color: rgb(0, 255, 255);
+}
+#videoContainer {
+    position: relative;
+  }
+#playPauseButton {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #3498DB;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+  }
+ #myheading{position: absolute;
+  top: 30%;
+  left: 37%;
+  font-family: 'Caveat', cursive;
+  color:white;
+  font-size: 100px;}
